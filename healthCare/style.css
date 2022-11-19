@@ -1,0 +1,36 @@
+.body{
+background-color: rgb(228, 174, 130);
+}
+
+.nav{
+    width:150px;
+	height:25px;
+	margin:auto;
+    color: black;
+}
+.home{
+	width:150px;
+	height:25px;
+	margin:auto;
+    color: black;
+	
+}
+  
+.about{
+	width:150px;
+	height:25px;
+	margin:auto;
+	color: black;
+}
+.galary{
+	width:150px;
+	height:25px;
+	margin:auto;
+	color: black;
+}
+.contact{
+	width:150px;
+	height:25px;
+	margin:auto;
+	color: black;
+}
